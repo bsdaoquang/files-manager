@@ -1,3 +1,4 @@
 /** @format */
 import SiderComponent from './SiderComponent';
-export { SiderComponent };
+import HeaderComponent from './HeaderComponent';
+export { SiderComponent, HeaderComponent };
